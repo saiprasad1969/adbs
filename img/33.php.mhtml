@@ -1,0 +1,30 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost/33.php
+Subject: 
+Date: Wed, 8 Mar 2023 02:46:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--UbkyPKIQc4mcLK2E4IXQBBGq8Bd2h7Y6yrx4BBSxiq----"
+
+
+------MultipartBoundary--UbkyPKIQc4mcLK2E4IXQBBGq8Bd2h7Y6yrx4BBSxiq----
+Content-Type: text/html
+Content-ID: <frame-258AE0AC7F789C4D4490B27CF8F0BFAF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/33.php
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+
+</head>
+<body>
+array1 is<br>key=3Dfirst,value=3Done<br><br>key=3Dsecond,value=3Dtwo<br><br=
+>key=3Dthird,value=3Dthree<br><br>array2 is<br>key=3Dfirst,value=3Done<br><=
+br>key=3D2,value=3Dten<br><br>key=3D3,value=3Deleven<br><br>key=3Dthird,val=
+ue=3Dthree<br><br>The content of new file.txt is<br>one<br>two<br>three<br>=
+ten<br>eleven<br>
+
+
+</body></html>
+------MultipartBoundary--UbkyPKIQc4mcLK2E4IXQBBGq8Bd2h7Y6yrx4BBSxiq------
